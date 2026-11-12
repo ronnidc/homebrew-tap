@@ -1,8 +1,8 @@
 class Djdojo < Formula
   desc "YouTube playlist as lossless AIFF or FLAC for DJ practice"
   homepage "https://github.com/ronnidc/djdojo"
-  url "https://github.com/ronnidc/djdojo/archive/refs/tags/v1.3.0.tar.gz"
-  sha256 "aa06eb92f87f596da865374d59623daaf2b5e1c185bb357ffed78e01ef48c963"
+  url "https://github.com/ronnidc/djdojo/archive/refs/tags/v1.3.1.tar.gz"
+  sha256 "3db65a15918602352a2c89772e3044856591568b123c5d910889ce78fe137ead"
   license "MIT"
 
   depends_on "ffmpeg"
